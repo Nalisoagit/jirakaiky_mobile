@@ -1,0 +1,26 @@
+
+>
+java:S1604/"(Make this anonymous inner class a lambda(®¢èõ
+>
+java:S16046"(Make this anonymous inner class a lambda(µ™¿¾
+>
+java:S1604K"(Make this anonymous inner class a lambda(àÖÊ±
+j
+java:S1104"TMake backHome a static final constant or non-public and provide accessors if needed.(ÿ†’š
+D
+java:S1444".Make this "public static backHome" field final(ÿ†’š
+r	java:S116"XRename this field "ID_HISTORIQUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Í‰ëûÿÿÿÿ
+w	java:S116"]Rename this field "ID_SYNCHRONISATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ë Öùÿÿÿÿ
+n	java:S116"TRename this field "ID_PROFIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ò¤Íùÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(¦Í‰ëûÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(¬ë Öùÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(™ò¤Íùÿÿÿÿ
+L
+java:S2696%"6Make the enclosing method "static" or remove this set.(¢Àþ¯
+—
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À§ã½
+H
+java:S1068"-Remove this unused "ID_PROFIL" private field.(™ò¤Íùÿÿÿÿ

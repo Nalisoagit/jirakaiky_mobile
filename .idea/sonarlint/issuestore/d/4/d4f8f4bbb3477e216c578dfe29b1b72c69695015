@@ -1,0 +1,177 @@
+
+u
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+p
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‚ÉÈ
+p
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‚ÉÈ
+p
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‚ÉÈ
+p
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‚ÉÈ
+m
+java:S1192"QDefine a constant instead of duplicating this literal "application/json" 6 times.(§ıÇ‹ûÿÿÿÿ
+g
+java:S1192Œ"PDefine a constant instead of duplicating this literal "X-CorrelationID" 3 times.(ùÊ¼Ù
+c
+java:S1192è"GDefine a constant instead of duplicating this literal "status" 4 times.(‹‰ûşÿÿÿÿ
+^
+java:S1192Â"GDefine a constant instead of duplicating this literal "VOLLEY" 4 times.(äì‘Š
+e
+java:S1192½"NDefine a constant instead of duplicating this literal "Authorization" 4 times.(ÃŒ—‘
+h
+java:S1192"LDefine a constant instead of duplicating this literal "partnerName" 3 times.(Ú¹¹Øøÿÿÿÿ
+m
+java:S1192"VDefine a constant instead of duplicating this literal "UserAccountIdentifier" 3 times.(ÕËÁ
+`
+java:S1192Â"IDefine a constant instead of duplicating this literal "ERREUR: " 4 times.(äì‘Š
+e
+java:S1192¿"IDefine a constant instead of duplicating this literal "no-cache" 4 times.(Ìâ¿ıûÿÿÿÿ
+d
+java:S1192‹"HDefine a constant instead of duplicating this literal "Version" 3 times.(‘‹×‰ûÿÿÿÿ
+c
+java:S1192‘"GDefine a constant instead of duplicating this literal "Accept" 3 times.(‡ù³ ÿÿÿÿÿ
+c
+java:S1192"GDefine a constant instead of duplicating this literal "JIRAMA" 3 times.(Ú¹¹Øøÿÿÿÿ
+j
+java:S1192¿"NDefine a constant instead of duplicating this literal "Cache-Control" 4 times.(Ìâ¿ıûÿÿÿÿ
+d
+java:S1192"MDefine a constant instead of duplicating this literal "UserLanguage" 3 times.(è²æ…
+d
+java:S1192ê"HDefine a constant instead of duplicating this literal "pending" 3 times.(€ºíÈøÿÿÿÿ
+d
+java:S1192¾"MDefine a constant instead of duplicating this literal "Content-Type" 4 times.(’×ÃÊ
+_
+java:S1192"HDefine a constant instead of duplicating this literal "msisdn;" 3 times.(ÕËÁ
+?
+java:S1604”"(Make this anonymous inner class a lambda(µî¾
+D
+java:S1604¦"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604ä"(Make this anonymous inner class a lambda(¿Òÿû
+D
+java:S1604ù"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604Å"(Make this anonymous inner class a lambda(–ß§
+D
+java:S1604ÿ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604£"(Make this anonymous inner class a lambda(úÚâ‘
+D
+java:S1604À"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604¸"(Make this anonymous inner class a lambda(–ãüŞşÿÿÿÿ
+D
+java:S1604½"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604Ò"(Make this anonymous inner class a lambda(–ãüŞşÿÿÿÿ
+D
+java:S1604×"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604ˆ"(Make this anonymous inner class a lambda(†£°î
+?
+java:S1604“"(Make this anonymous inner class a lambda(†£°î
+?
+java:S1604£"(Make this anonymous inner class a lambda(ó¥
+D
+java:S1604Õ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+F
+java:S1604õ"(Make this anonymous inner class a lambda(†£°î8ï¬ê†‡1
+€
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "uuidAsString".(Âƒ–’úÿÿÿÿ
+t
+java:S1488‰"^Immediately return this expression instead of assigning it to the temporary variable "valiny".(¦Ÿç
+T
+java:S1153ß"1Directly append the argument of String.valueOf().(Ú ëùÿÿÿÿ8ÿ¬ê†‡1
+h	java:S1168"TRename this field "url_mvola" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É»”l
+k	java:S116>"VRename this field "domain_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Çì÷
+q	java:S116?"WRename this field "url_set_recu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¨€ìùÿÿÿÿ
+q	java:S116@"\Rename this field "url_success_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„áê«
+u	java:S116A"`Rename this field "url_verif_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜úç
+n	java:S116F"YRename this field "consumer_key_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹çæ
+q	java:S116G"\Rename this field "consumer_secret_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»’Êó
+p	java:S116H"[Rename this field "merchantNumber_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼˜®Ç
+s	java:S116J"YRename this field "consumer_key_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ï©şÿÿÿÿ
+v	java:S116K"\Rename this field "consumer_secret_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£†®ÿÿÿÿÿ
+u	java:S116L"[Rename this field "merchantNumber_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÈÉ–ûÿÿÿÿ
+w	java:S116R"[Rename this field "consumer_key_2_p" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó×• 8 ·ˆ‡‡1
+z	java:S116S"^Rename this field "consumer_secret_2_p" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÓÓÃ8¡·ˆ‡‡1
+|	java:S116T"[Rename this field "merchantNumber_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ıèºşÿÿÿÿ8¡·ˆ‡‡1
+Q	java:S125<"<This block of commented-out lines of code should be removed.(õ´÷Ã
+V	java:S125="<This block of commented-out lines of code should be removed.(Ò¦Õšüÿÿÿÿ
+Q	java:S125N"<This block of commented-out lines of code should be removed.(âûç¶
+Q
+java:S1874\"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ
+Q
+java:S1874y"6Remove this use of "ProgressDialog"; it is deprecated.(Ñ»¯äıÿÿÿÿ
+H
+java:S1874{"2Remove this use of "setMessage"; it is deprecated.(İåí
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ä«”Ï
+[
+java:S1854"?Remove this useless assignment to local variable "bearerToken".(ÌÊÀ„şÿÿÿÿ
+L
+java:S1481"0Remove this unused "bearerToken" local variable.(ÌÊÀ„şÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(®ÿ€«
+W	java:S125©"<This block of commented-out lines of code should be removed.(ÀôÂøÿÿÿÿ
+P
+java:S2130É"9Use "Integer.parseInt" for this string-to-int conversion.(ı¨Ôı
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Ó–š¾şÿÿÿÿ
+W	java:S125î"<This block of commented-out lines of code should be removed.(á²Àúÿÿÿÿ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(˜æ‘Ë
+i
+java:S1871§"MThis branch's code block is the same as the block for the branch on line 291.(ÒÌâ–øÿÿÿÿ
+i
+java:S1871¶"MThis branch's code block is the same as the block for the branch on line 306.(ÒÌâ–øÿÿÿÿ
+Q	java:S125¿"<This block of commented-out lines of code should be removed.( æ£G
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(¿¡÷ä
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¼¨±üÿÿÿÿ
+K
+java:S1172š"5Remove this unused method parameter "customerNumber".(»¡Òn
+W	java:S125­"<This block of commented-out lines of code should be removed.(½’Íøÿÿÿÿ
+D	java:S108¶")Either remove or fill this block of code.(ûÆ‘âşÿÿÿÿ
+i
+java:S1871ä"MThis branch's code block is the same as the block for the branch on line 480.(ÒÌâ–øÿÿÿÿ
+R	java:S125å"<This block of commented-out lines of code should be removed.(óƒ…
+T	java:S106ù"9Replace this use of System.out or System.err by a logger.(¨Ñâûÿÿÿÿ
+G
+java:S1172"+Remove this unused method parameter "view".(Ñ²áûÿÿÿÿ
+Y
+java:S1874¢"=Remove this use of "getDrawableForDensity"; it is deprecated.(Ãùï¤ùÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(³ÓÈëùÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(³ÓÈëùÿÿÿÿ
+i
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(çÂÓç
+N
+java:S10686"3Remove this unused "urlDeProduction" private field.(“‚Öúÿÿÿÿ
+M
+java:S1068J"2Remove this unused "consumer_key_1" private field.(‰ï©şÿÿÿÿ
+P
+java:S1068K"5Remove this unused "consumer_secret_1" private field.(£†®ÿÿÿÿÿ
+O
+java:S1068L"4Remove this unused "merchantNumber_1" private field.(•ÈÉ–ûÿÿÿÿ
+Q
+java:S1068R"4Remove this unused "consumer_key_2_p" private field.(Ó×• 8Ğ¸ˆ‡‡1
+T
+java:S1068S"7Remove this unused "consumer_secret_2_p" private field.(àÓÓÃ8Ğ¸ˆ‡‡1
+V
+java:S1068T"4Remove this unused "merchantNumber_2" private field.(¸ıèºşÿÿÿÿ8Ğ¸ˆ‡‡1
+A
+java:S1068X"+Remove this unused "myToken" private field.(ÀüîÔ
+C
+java:S1068Z"-Remove this unused "myMontant" private field.(Íº•Á
+T
+java:S1068^"9Remove this unused "myPaiementFactureBase" private field.(ƒ˜ûÿÿÿÿ
+D
+java:S1068_".Remove this unused "myLatitude" private field.(Ò«€ş
+J
+java:S1068`"/Remove this unused "myLongitude" private field.(¸Å¢£üÿÿÿÿ
+N
+java:S1068a"3Remove this unused "myDateForFailed" private field.(·…Ìˆøÿÿÿÿ
+@
+java:S1068c"*Remove this unused "myView" private field.(ñ¤ş
+K
+java:S1068d"5Remove this unused "myDatabaseManager" private field.(Ôïƒ
+K
+java:S1068e"0Remove this unused "myUtilitaire" private field.(ş•¾áÿÿÿÿÿ
+K
+java:S1068f"5Remove this unused "myCashpointNumber" private field.(ÂºÿÛ

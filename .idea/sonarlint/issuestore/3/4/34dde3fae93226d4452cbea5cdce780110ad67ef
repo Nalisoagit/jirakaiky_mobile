@@ -1,0 +1,203 @@
+
+K
+java:S3740‡"/Provide the parametrized type for this generic.(ãßæùşÿÿÿÿ
+K
+java:S3740ç"/Provide the parametrized type for this generic.(ãßæùşÿÿÿÿ
+K
+java:S3740û"/Provide the parametrized type for this generic.(ãßæùşÿÿÿÿ
+K
+java:S3740¦"/Provide the parametrized type for this generic.(ãßæùşÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(ãßæùşÿÿÿÿ
+F
+java:S3740Æ"/Provide the parametrized type for this generic.(›™ÉÙ
+K
+java:S3740à"/Provide the parametrized type for this generic.(ãßæùşÿÿÿÿ
+K
+java:S3740ş"/Provide the parametrized type for this generic.(ãßæùşÿÿÿÿ
+F
+java:S3740Ä"/Provide the parametrized type for this generic.(¡º…
+l
+java:S1192“"PDefine a constant instead of duplicating this literal "GRIDDATA JSON: " 3 times.(¨µíÍúÿÿÿÿ
+g
+java:S1192ƒ"KDefine a constant instead of duplicating this literal "nom_client" 4 times.(ŸÆ…ûÿÿÿÿÿ
+h
+java:S1192‘"LDefine a constant instead of duplicating this literal "DATA JSON: " 3 times.(§—ö±øÿÿÿÿ
+c
+java:S1192ê"GDefine a constant instead of duplicating this literal "output" 3 times.(ÎÚùëşÿÿÿÿ
+a
+java:S1192Œ"JDefine a constant instead of duplicating this literal "reference" 6 times.(”¼¶ı
+c
+java:S1192”"GDefine a constant instead of duplicating this literal "rowset" 3 times.(Ÿãïüÿÿÿÿ
+l
+java:S1192•"PDefine a constant instead of duplicating this literal "Taille rowset: " 3 times.(¢‘î¤úÿÿÿÿ
+b
+java:S1192‹"FDefine a constant instead of duplicating this literal "exist" 6 times.(û€±³ùÿÿÿÿ
+a
+java:S11927"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(»à™øÿÿÿÿ
+j
+java:S1192‚"NDefine a constant instead of duplicating this literal "numero_client" 4 times.(¯¯”…ûÿÿÿÿ
+d
+java:S1192‰"HDefine a constant instead of duplicating this literal "errors" 14 times.(Î¾™øÿÿÿÿ
+d
+java:S1192ú"HDefine a constant instead of duplicating this literal "montant" 3 times.(·©Ôùÿÿÿÿ
+c
+java:S1192ã"LDefine a constant instead of duplicating this literal "ds_V55INVCA" 3 times.(öº‚‰
+b
+java:S1192p"GDefine a constant instead of duplicating this literal "VOLLEY" 4 times.(æ²üøÿÿÿÿ
+e
+java:S1192p"JDefine a constant instead of duplicating this literal "REPONSE: " 3 times.(æ²üøÿÿÿÿ
+b
+java:S1192‹"FDefine a constant instead of duplicating this literal "false" 3 times.(û€±³ùÿÿÿÿ
+_
+java:S1192v"IDefine a constant instead of duplicating this literal "ERREUR: " 3 times.(äì‘Š
+`
+java:S1192á"IDefine a constant instead of duplicating this literal "recucode" 4 times.(ŞÊáì
+f
+java:S1192„"ODefine a constant instead of duplicating this literal "adresse_client" 4 times.(šÂšœ
+`
+java:S1192’"IDefine a constant instead of duplicating this literal "gridData" 3 times.(£Ùê
+K
+java:S1066”"/Merge this if statement with the enclosing one.(ÄÜ—İøÿÿÿÿ
+„
+java:S1319Ä"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(„ÄÛ¯
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èŞùğıÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şá…Ïøÿÿÿÿ
+l	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÂØÁûÿÿÿÿ
+l	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ú™µûÿÿÿÿ
+l	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şá…Ïøÿÿÿÿ
+l	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÂØÁûÿÿÿÿ
+l	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ú™µûÿÿÿÿ
+g	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï‰€Í
+g	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÏÒä
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çèôÆıÿÿÿÿ
+g	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÇŞ«
+g	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğô¡Ü
+l	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëğ‘ıÿÿÿÿ
+l	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åØÈøıÿÿÿÿ
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÏÒä
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çèôÆıÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áì”ï
+C
+java:S1604T"(Make this anonymous inner class a lambda(­Ú‰µúÿÿÿÿ
+C
+java:S1604r"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604Å"(Make this anonymous inner class a lambda(­Ú‰µúÿÿÿÿ
+D
+java:S1604Ù"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604ô"(Make this anonymous inner class a lambda(­Ú‰µúÿÿÿÿ
+D
+java:S1604€"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+€
+java:S1488½"dImmediately return this expression instead of assigning it to the temporary variable "valinyFarany".(´Ú´«üÿÿÿÿ
+€
+java:S1488ì"dImmediately return this expression instead of assigning it to the temporary variable "valinyFarany".(£¶ú£úÿÿÿÿ
+{
+java:S1488¾"dImmediately return this expression instead of assigning it to the temporary variable "valinyFarany".(¸âÂ
+z
+java:S1488Ò"^Immediately return this expression instead of assigning it to the temporary variable "valiny".(°äØÿÿÿÿÿ
+e
+java:S1226T"JIntroduce a new variable instead of reusing the parameter "stringRequest".(­Ú‰µúÿÿÿÿ
+f
+java:S1226|"KIntroduce a new variable instead of reusing the parameter "progressDialog".(ğíµüÿÿÿÿ
+f
+java:S1226Å"JIntroduce a new variable instead of reusing the parameter "stringRequest".(­Ú‰µúÿÿÿÿ
+`
+java:S1226ó"IIntroduce a new variable instead of reusing the parameter "requestQueue".(¯Õ­Ú
+f
+java:S1226ô"JIntroduce a new variable instead of reusing the parameter "stringRequest".(­Ú‰µúÿÿÿÿ
+u	java:S116&"[Rename this field "domain_name_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ìéşÿÿÿÿ
+p	java:S116'"[Rename this field "domain_name_prod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÅ·Ü
+k	java:S116("VRename this field "domain_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¼™€
+z	java:S116)"`Rename this field "url_existence_facture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…­ıºÿÿÿÿÿ
+r	java:S116*"]Rename this field "url_statut_facture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŞ‹€
+p	java:S116+"VRename this field "url_montant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÅ´øÿÿÿÿ
+z	java:S116,"`Rename this field "url_reglement_facture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äâ½Åúÿÿÿÿ
+t	java:S116-"ZRename this field "url_info_client" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Òéøÿÿÿÿ
+—
+java:S1186£"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¼®~
+x
+java:S4087@"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(µÖ€’
+T
+java:S47197"9Replace charset name argument with StandardCharsets.UTF_8(»à™øÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ĞÙÀ‰ıÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(øşø•úÿÿÿÿ
+Q
+java:S1874O"6Remove this use of "ProgressDialog"; it is deprecated.(¦†‚æùÿÿÿÿ
+P	java:S125Q"<This block of commented-out lines of code should be removed.(î³ín
+V	java:S125S"<This block of commented-out lines of code should be removed.(äßÜ–ÿÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ
+V	java:S125_"<This block of commented-out lines of code should be removed.(œ“Öûÿÿÿÿ
+P	java:S125l"<This block of commented-out lines of code should be removed.(ö¾™
+Q
+java:S1874|"6Remove this use of "ProgressDialog"; it is deprecated.(ğíµüÿÿÿÿ
+H
+java:S1874~"2Remove this use of "setMessage"; it is deprecated.(ÅŠğ»
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(§—ö±øÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(¨µíÍúÿÿÿÿ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(¢‘î¤úÿÿÿÿ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(è­˜æ
+y
+java:S4087¶"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(µÖ€’
+U
+java:S4719­"9Replace charset name argument with StandardCharsets.UTF_8(»à™øÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(ĞÙÀ‰ıÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(äßÜ–ÿÿÿÿÿ
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(–Ç
+W	java:S125×"<This block of commented-out lines of code should be removed.(Ò§·ˆúÿÿÿÿ
+\
+java:S1854ç"@Remove this useless assignment to local variable "valinyFarany".(ãßæùşÿÿÿÿ
+M
+java:S1481ç"1Remove this unused "valinyFarany" local variable.(ãßæùşÿÿÿÿ
+O	java:S106é"9Replace this use of System.out or System.err by a logger.(Ì×¼ê
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(ôã®
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(öç­²ÿÿÿÿÿ
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(ƒÄŸ´ûÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(§—ö±øÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(¨µíÍúÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¢‘î¤úÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.( ©µşÿÿÿÿ
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(©äå•
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(€«™„úÿÿÿÿ
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(§—ö±øÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(¨µíÍúÿÿÿÿ
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(¢‘î¤úÿÿÿÿ
+T	java:S106À"9Replace this use of System.out or System.err by a logger.( ©µşÿÿÿÿ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(©äå•
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(€«™„úÿÿÿÿ
+O	java:S106Ã"9Replace this use of System.out or System.err by a logger.(›£„®
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(·œº
+y
+java:S4087ä"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(µÖ€’
+U
+java:S4719Û"9Replace charset name argument with StandardCharsets.UTF_8(»à™øÿÿÿÿ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(ĞÙÀ‰ıÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(Ò§·ˆúÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(³Ò’ø
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(†»šôıÿÿÿÿ
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(ïßø•
+y
+java:S4087»"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(µÖ€’
+U
+java:S4719²"9Replace charset name argument with StandardCharsets.UTF_8(»à™øÿÿÿÿ
+W	java:S125º"<This block of commented-out lines of code should be removed.(ˆ—°®şÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(ĞÙÀ‰ıÿÿÿÿ
+d	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÄÛ¯
+U
+java:S2130Ñ">Use "Double.parseDouble" for this string-to-double conversion.(êèÃ—
+U
+java:S2130Ò">Use "Double.parseDouble" for this string-to-double conversion.(ªÕ²’
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(³Ò’ø
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(†»šôıÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ïßø•
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¿–µüÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(ĞŒÀÛ
+U
+java:S2130´">Use "Double.parseDouble" for this string-to-double conversion.(‡Ğ ó
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(¯Â”¡ùÿÿÿÿ
+Q
+java:S1068'"4Remove this unused "domain_name_prod" private field.(ˆÅ·Ü8õÔ·‰™1
+N
+java:S1068-"3Remove this unused "url_info_client" private field.(©Òéøÿÿÿÿ

@@ -1,0 +1,15 @@
+
+s
+java:S14887"^Immediately return this expression instead of assigning it to the temporary variable "valiny".(Ûü÷}
+t
+java:S1488N"^Immediately return this expression instead of assigning it to the temporary variable "valiny".(ŠÏ®ß
+€
+java:S1488U"^Immediately return this expression instead of assigning it to the temporary variable "valiny".(¬ÆÄÜúÿÿÿÿ8ùİ§·™1
+u	java:S116"[Rename this field "SHARED_PREF_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ù±Íüÿÿÿÿ
+n	java:S116"YRename this field "SESSION_KEY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕìŞ
+w	java:S116"]Rename this field "SESSION_KEY_NUMERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¬îÌıÿÿÿÿ
+z	java:S116"`Rename this field "SESSION_KEY_SIGNATURE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò§óøÿÿÿÿ
+q	java:S116"]Rename this field "SESSION_KEY_CREDIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÙÜ
+n	java:S116"ZRename this field "SESSION_KEY_NOM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¨øa
+s	java:S116"^Rename this field "SESSION_KEY_ID_DIST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´šê¯
+s	java:S116"^Rename this field "SESSION_KEY_SEUILLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­£Í¡

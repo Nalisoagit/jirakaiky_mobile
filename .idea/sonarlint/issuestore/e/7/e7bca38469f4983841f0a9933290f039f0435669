@@ -1,0 +1,32 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¼·ô•ùÿÿÿÿ
+b
+java:S11929"GDefine a constant instead of duplicating this literal "minute" 5 times.(È¶Ëßúÿÿÿÿ
+c
+java:S1192:"HDefine a constant instead of duplicating this literal "seconde" 4 times.(Àšÿÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(®¬§6
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ğçŸŸ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¸ùÉÊ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(òÀŠ}
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ßü“ø
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(×‚ùøÿÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(ÄŸŠå
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(·­ÙŠ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(‡â†ƒ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(æéğû
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(§Ï‹
+P
+java:S1854Y":Remove this useless assignment to local variable "valiny".(Æïç
+S
+java:S1854_"8Remove this useless assignment to local variable "date".(±»ãŒùÿÿÿÿ
+L	java:S106U"9Replace this use of System.out or System.err by a logger.(ğW
+h
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(®ÊÃ„
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(íÑ’Òşÿÿÿÿ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(ÖÀ’
+O	java:S106"9Replace this use of System.out or System.err by a logger.(õ¸æ
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(ÚÙ²Ó
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Ş™ú²
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(…ãÚîùÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(ÙÃÎöúÿÿÿÿ

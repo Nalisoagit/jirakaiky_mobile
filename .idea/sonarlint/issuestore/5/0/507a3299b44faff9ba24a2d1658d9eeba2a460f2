@@ -1,0 +1,47 @@
+
+i
+java:S1192â"MDefine a constant instead of duplicating this literal "cashlessUser" 3 times.(°…Óóøÿÿÿÿ
+c
+java:S1192å"GDefine a constant instead of duplicating this literal "numero" 3 times.(Žóýáüÿÿÿÿ
+b
+java:S1192Z"GDefine a constant instead of duplicating this literal "BUTTON" 3 times.(µÑ Óøÿÿÿÿ
+`
+java:S1192¥"IDefine a constant instead of duplicating this literal "Password" 4 times.(ùþÎØ
+C
+java:S1604G"(Make this anonymous inner class a lambda(®Ê¹üÿÿÿÿ
+C
+java:S1604P"(Make this anonymous inner class a lambda(ºÁöïûÿÿÿÿ
+D
+java:S1604è"(Make this anonymous inner class a lambda(¯‘àçúÿÿÿÿ
+D
+java:S1604”"(Make this anonymous inner class a lambda(¯‘àçúÿÿÿÿ
+?
+java:S1604Ç"(Make this anonymous inner class a lambda( …ïÍ
+D
+java:S1604Ï"(Make this anonymous inner class a lambda(œÁÈÌþÿÿÿÿ
+z
+java:S1488Û"^Immediately return this expression instead of assigning it to the temporary variable "valiny".(Î¤æ…øÿÿÿÿ
+a
+java:S1226´"EIntroduce a new variable instead of reusing the parameter "variable".(¢âÞÞúÿÿÿÿ
+m	java:S1160"SRename this field "USER_TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó©Öòúÿÿÿÿ
+n
+java:S1450."XRemove the "loginLink" field and declare it as a local variable in the relevant methods.(ÍÚ¶ò
+=
+java:S1125U"'Remove the unnecessary boolean literal.(Ç¬ò
+C
+java:S1125"'Remove the unnecessary boolean literal.(€°åêÿÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(¤½Ì±ýÿÿÿÿ
+>
+java:S1125“"'Remove the unnecessary boolean literal.(£Ç…³
+R
+java:S6353 "<Use concise character class syntax '\\d' instead of '[0-9]'.(·©ö
+i
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÎË°Ÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(âðÉÁÿÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(³ß€á
+[
+java:S2147¤"ECombine this catch with the one at line 290, which has the same body.(ÿÒ„p
+X
+java:S1854´"<Remove this useless assignment to local variable "variable".(¢âÞÞúÿÿÿÿ

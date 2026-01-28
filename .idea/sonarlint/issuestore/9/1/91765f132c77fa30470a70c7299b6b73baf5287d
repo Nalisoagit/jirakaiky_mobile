@@ -1,0 +1,19 @@
+
+
+java:S1488’"\Immediately return this expression instead of assigning it to the temporary variable "temp".(¥÷™ÿÿÿÿÿ8ÿåéáı0
+\
+java:S1854N":Remove this useless assignment to local variable "valiny".(Ì‚ÄÆüÿÿÿÿ8»çéáı0
+D
+java:S1905d"'Remove this unnecessary cast to "Date".(Ùö„¸8êçéáı0
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(… µà8ùçéáı0
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(ìïÊ¦8ùçéáı0
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(ìïÊ¦8ùçéáı0
+^	java:S125…"<This block of commented-out lines of code should be removed.(¸ÓŠ¢ÿÿÿÿÿ8ùçéáı0
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äµĞ½8ùçéáı0
+U	java:S106œ"9Replace this use of System.out or System.err by a logger.(ìƒf8äÌ…Ö‘1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¸×èüÿÿÿÿ8äÌ…Ö‘1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(µ”¬½ûÿÿÿÿ8äÌ…Ö‘1
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(î ±·üÿÿÿÿ8åÌ…Ö‘1
+[	java:S106¤"9Replace this use of System.out or System.err by a logger.(Ã–¡ûÿÿÿÿ8êÌ…Ö‘1
+\
+java:S2130¥"9Use "Integer.parseInt" for this string-to-int conversion.(¤¯ÃÜüÿÿÿÿ8êÌ…Ö‘1

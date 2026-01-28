@@ -1,0 +1,103 @@
+
+d
+java:S2259î"HA "NullPointerException" could be thrown; "userObject" is nullable here.(Ö ÌÛúÿÿÿÿ
+r	java:S116D"XRename this field "write_success" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹íŠÇøÿÿÿÿ
+k	java:S116E"VRename this field "write_error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾šÿ
+u	java:S116O"[Rename this field "domain_name_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ìéşÿÿÿÿ
+p	java:S116P"[Rename this field "domain_name_prod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÅ·Ü
+k	java:S116Q"VRename this field "domain_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¼™€
+i	java:S116R"TRename this field "login_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌƒÍÉ
+7
+java:S1170C"!Make this final field static too.(ßÊ‚‘
+<
+java:S1170D"!Make this final field static too.(‹íŠÇøÿÿÿÿ
+7
+java:S1170E"!Make this final field static too.(¾šÿ
+~
+java:S14509"hRemove the "firebaseFirestoreInstance" field and declare it as a local variable in the relevant methods.(¼Í•Œ
+p
+java:S1450>"ZRemove the "loginButton" field and declare it as a local variable in the relevant methods.(à…÷Ÿ
+@
+java:S1197I"*Move the array designators [] to the type.(¯µ¶í
+h
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(‰û†	
+R	java:S125—"<This block of commented-out lines of code should be removed.(Æ†´€
+a
+java:S2147Ô"ECombine this catch with the one at line 210, which has the same body.(ĞĞ¹óúÿÿÿÿ
+R	java:S125ú"<This block of commented-out lines of code should be removed.(Í¬ø
+[
+java:S1874Ë"?Remove this use of "getParcelableArrayExtra"; it is deprecated.(²¢­øıÿÿÿÿ
+R	java:S125à"<This block of commented-out lines of code should be removed.(ÊáÆ
+S
+java:S4719"<Replace charset name argument with StandardCharsets.US_ASCII(ê™²õ
+V
+java:S1874¦":Remove this use of "getParcelableExtra"; it is deprecated.(–Ë§ùÿÿÿÿ
+S
+java:S10689"=Remove this unused "firebaseFirestoreInstance" private field.(¼Í•Œ
+F
+java:S1068?"0Remove this unused "registerLink" private field.(Ñµ´­
+G
+java:S1068C"1Remove this unused "errorDetected" private field.(ßÊ‚‘
+L
+java:S1068D"1Remove this unused "write_success" private field.(‹íŠÇøÿÿÿÿ
+E
+java:S1068E"/Remove this unused "write_error" private field.(¾šÿ
+Q
+java:S1068P"4Remove this unused "domain_name_prod" private field.(ˆÅ·Ü8–‚Â‰™1
+F
+java:S1144ı"*Remove this unused private "write" method.(ÍÛÖŸüÿÿÿÿ
+C
+java:S1604w"(Make this anonymous inner class a lambda(ì›ÿàşÿÿÿÿ
+?
+java:S1604Û"(Make this anonymous inner class a lambda(¶—Û³
+D
+java:S1604"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+}
+java:S1488™"aImmediately return this expression instead of assigning it to the temporary variable "recordNFC".(Çé®Ÿùÿÿÿÿ
+k
+java:S2259î"HA "NullPointerException" could be thrown; "userObject" is nullable here.(Ö ÌÛúÿÿÿÿ8³ÇÂ‰™1
+y	java:S116D"XRename this field "write_success" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹íŠÇøÿÿÿÿ8µÇÂ‰™1
+r	java:S116E"VRename this field "write_error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾šÿ8µÇÂ‰™1
+|	java:S116O"[Rename this field "domain_name_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ìéşÿÿÿÿ8¶ÇÂ‰™1
+w	java:S116P"[Rename this field "domain_name_prod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÅ·Ü8¶ÇÂ‰™1
+r	java:S116Q"VRename this field "domain_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¼™€8¶ÇÂ‰™1
+p	java:S116R"TRename this field "login_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌƒÍÉ8¶ÇÂ‰™1
+>
+java:S1170C"!Make this final field static too.(ßÊ‚‘8ÀÇÂ‰™1
+C
+java:S1170D"!Make this final field static too.(‹íŠÇøÿÿÿÿ8ÀÇÂ‰™1
+>
+java:S1170E"!Make this final field static too.(¾šÿ8ÀÇÂ‰™1
+…
+java:S14509"hRemove the "firebaseFirestoreInstance" field and declare it as a local variable in the relevant methods.(¼Í•Œ8ÄÇÂ‰™1
+w
+java:S1450>"ZRemove the "loginButton" field and declare it as a local variable in the relevant methods.(à…÷Ÿ8ÄÇÂ‰™1
+G
+java:S1197I"*Move the array designators [] to the type.(¯µ¶í8ÍÇÂ‰™1
+o
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(‰û†	8ÚÇÂ‰™1
+Y	java:S125—"<This block of commented-out lines of code should be removed.(Æ†´€8ŞÇÂ‰™1
+h
+java:S2147Ô"ECombine this catch with the one at line 210, which has the same body.(ĞĞ¹óúÿÿÿÿ8ßÇÂ‰™1
+Y	java:S125ú"<This block of commented-out lines of code should be removed.(Í¬ø8ıÇÂ‰™1
+b
+java:S1874Ë"?Remove this use of "getParcelableArrayExtra"; it is deprecated.(²¢­øıÿÿÿÿ8 ÈÂ‰™1
+Y	java:S125à"<This block of commented-out lines of code should be removed.(ÊáÆ8­ÈÂ‰™1
+Z
+java:S4719"<Replace charset name argument with StandardCharsets.US_ASCII(ê™²õ8»ÈÂ‰™1
+]
+java:S1874¦":Remove this use of "getParcelableExtra"; it is deprecated.(–Ë§ùÿÿÿÿ8¿ÈÂ‰™1
+Z
+java:S10689"=Remove this unused "firebaseFirestoreInstance" private field.(¼Í•Œ8ÌÈÂ‰™1
+M
+java:S1068?"0Remove this unused "registerLink" private field.(Ñµ´­8ÌÈÂ‰™1
+N
+java:S1068C"1Remove this unused "errorDetected" private field.(ßÊ‚‘8ÛÈÂ‰™1
+S
+java:S1068D"1Remove this unused "write_success" private field.(‹íŠÇøÿÿÿÿ8ëÈÂ‰™1
+L
+java:S1068E"/Remove this unused "write_error" private field.(¾šÿ8ûÈÂ‰™1
+Q
+java:S1068P"4Remove this unused "domain_name_prod" private field.(ˆÅ·Ü8ûÈÂ‰™1
+M
+java:S1144ı"*Remove this unused private "write" method.(ÍÛÖŸüÿÿÿÿ8üÈÂ‰™1

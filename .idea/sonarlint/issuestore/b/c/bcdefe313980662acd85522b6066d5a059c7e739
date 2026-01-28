@@ -1,0 +1,104 @@
+
+K
+java:S3740”"/Provide the parametrized type for this generic.(Ëğ£îùÿÿÿÿ
+g
+java:S1192w"QDefine a constant instead of duplicating this literal "application/json" 7 times.(ëãÿ•
+k
+java:S1192s"PDefine a constant instead of duplicating this literal "X-CorrelationID" 4 times.(àŞîïûÿÿÿÿ
+^
+java:S1192­"GDefine a constant instead of duplicating this literal "status" 3 times.(ş²ï’
+i
+java:S1192y"NDefine a constant instead of duplicating this literal "Authorization" 4 times.(ÈÀÔôùÿÿÿÿ
+g
+java:S1192v"LDefine a constant instead of duplicating this literal "partnerName" 5 times.(œÏÂéúÿÿÿÿ
+q
+java:S1192u"VDefine a constant instead of duplicating this literal "UserAccountIdentifier" 4 times.(ˆâÀòşÿÿÿÿ
+i
+java:S1192v"NDefine a constant instead of duplicating this literal "EqimaSolution" 3 times.(œÏÂéúÿÿÿÿ
+d
+java:S1192z"IDefine a constant instead of duplicating this literal "no-cache" 4 times.(ç¹óÒûÿÿÿÿ
+c
+java:S1192r"HDefine a constant instead of duplicating this literal "Version" 4 times.(šÀÒ“üÿÿÿÿ
+]
+java:S1192x"GDefine a constant instead of duplicating this literal "Accept" 3 times.(”ìéõ
+i
+java:S1192z"NDefine a constant instead of duplicating this literal "Cache-Control" 4 times.(ç¹óÒûÿÿÿÿ
+h
+java:S1192t"MDefine a constant instead of duplicating this literal "UserLanguage" 4 times.(ÍÒäÕıÿÿÿÿ
+]
+java:S1192™"FDefine a constant instead of duplicating this literal "value" 3 times.(Ê’â•
+c
+java:S1192w"MDefine a constant instead of duplicating this literal "Content-Type" 4 times.(ëãÿ•
+c
+java:S1192u"HDefine a constant instead of duplicating this literal "msisdn;" 4 times.(ˆâÀòşÿÿÿÿ
+^
+java:S1192["HDefine a constant instead of duplicating this literal "Bearer " 4 times.(’‘…Õ
+D
+java:S1604¿"(Make this anonymous inner class a lambda(Í…ÙÅüÿÿÿÿ
+D
+java:S1604Ä"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+x
+java:S1488€"bImmediately return this expression instead of assigning it to the temporary variable "valinyJson".(âŒ
+€
+java:S1488Š"dImmediately return this expression instead of assigning it to the temporary variable "uuidAsString".(Âƒ–’úÿÿÿÿ
+t
+java:S1488’"^Immediately return this expression instead of assigning it to the temporary variable "valiny".(¦Ÿç
+Q	java:S1259"<This block of commented-out lines of code should be removed.(õ´÷Ã
+V	java:S125:"<This block of commented-out lines of code should be removed.(Ò¦Õšüÿÿÿÿ
+O
+java:S2130U"9Use "Integer.parseInt" for this string-to-int conversion.(ı¨Ôı
+P	java:S125Z"<This block of commented-out lines of code should be removed.( æ£G
+M	java:S106\"9Replace this use of System.out or System.err by a logger.(‡Ûñ)
+C
+java:S1481k"-Remove this unused "jsonBody" local variable.(©©õ¹
+Q	java:S125}"<This block of commented-out lines of code should be removed.(¸é¬î
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(¢åŒ¶
+O
+java:S4719‚"9Replace charset name argument with StandardCharsets.UTF_8(øıºd
+y
+java:S4087ˆ"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(œñÑ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(¡×ô¸ÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(®€ßæùÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(„ôøŒûÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(¢ÿ¦œşÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İªÛŞ
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+V
+java:S1854¹"@Remove this useless assignment to local variable "authForToken".(…‰õv
+G
+java:S1481¹"1Remove this unused "authForToken" local variable.(…‰õv
+Q	java:S125º"<This block of commented-out lines of code should be removed.( æ£G
+R	java:S125¾"<This block of commented-out lines of code should be removed.(è¨€ó
+T	java:S106Õ"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+Q	java:S125ä"<This block of commented-out lines of code should be removed.( æ£G
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+Y
+java:S1854”"=Remove this useless assignment to local variable "headerMap".(Ëğ£îùÿÿÿÿ
+V
+java:S1854"@Remove this useless assignment to local variable "authForToken".(…‰õv
+Z
+java:S1854Š"CRemove this useless assignment to local variable "descriptionText".(Ø¯Å²
+K
+java:S1481Š"4Remove this unused "descriptionText" local variable.(Ø¯Å²
+G
+java:S1481"1Remove this unused "authForToken" local variable.(…‰õv
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ğøšêşÿÿÿÿ
+J
+java:S1481”".Remove this unused "headerMap" local variable.(Ëğ£îùÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(õ•—šûÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(®ĞãÓ
+P
+java:S4719İ"9Replace charset name argument with StandardCharsets.UTF_8(„ò‡Â
+=
+java:S1168à"&Return an empty array instead of null.(¥¹ï
+7
+java:S2129ö" Remove this "String" constructor(¿’®§
+O
+java:S4719€"9Replace charset name argument with StandardCharsets.UTF_8(Çèğ&
+4
+java:S2119š"Save and re-use this "Random".(¼İÅf
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.( ±ü
+G
+java:S10686"1Remove this unused "urlProduction" private field.(»Ô€û
+N
+java:S1144ı"2Remove this unused private "getParamsByte" method.(¾¬Íãşÿÿÿÿ

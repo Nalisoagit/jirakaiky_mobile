@@ -1,0 +1,40 @@
+
+f	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ôòÅ
+n	java:S116"TRename this field "x_country" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô°¼´üÿÿÿÿ
+o	java:S116 "URename this field "x_currency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‚±ùûÿÿÿÿ
+x
+java:S1450"\Remove the "authorization" field and declare it as a local variable in the relevant methods.(Þ•§8”é©™ò0
+S
+java:S1854-"=Remove this useless assignment to local variable "reference".(¿ûÑ‚
+T
+java:S1854[">Remove this useless assignment to local variable "boolValiny".(ˆ•Êõ
+‰
+java:S1130%"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(ˆ¬Æãúÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(äŽ¦·
+D
+java:S1481-".Remove this unused "reference" local variable.(¿ûÑ‚
+Q	java:S125?"<This block of commented-out lines of code should be removed.(Á¿˜Ê
+Q	java:S125D"<This block of commented-out lines of code should be removed.(ßòðÊ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(©‚È¶
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(ÏáÏö
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(˜ßœÁüÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(ð›ž’
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(˜§
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í¦£ÿÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(ùùß£ùÿÿÿÿ
+N	java:S106‹"9Replace this use of System.out or System.err by a logger.(Ó´d
+P
+java:S2864—"4Iterate over the "entrySet" instead of the "keySet".(ªÈ­ïúÿÿÿÿ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(®ŠÖ´øÿÿÿÿ
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(ÛšŠ¼
+4
+java:S2119¢"Save and re-use this "Random".(¼ÝÅf
+W	java:S125­"<This block of commented-out lines of code should be removed.(ŠÃŒØüÿÿÿÿ
+H
+java:S1068"-Remove this unused "x_country" private field.(ô°¼´üÿÿÿÿ
+I
+java:S1068 ".Remove this unused "x_currency" private field.(õ‚±ùûÿÿÿÿ
+E
+java:S1068!"*Remove this unused "msisdn" private field.(œû§Üþÿÿÿÿ
+F
+java:S1144–"/Remove this unused private "setHeaders" method.(øëãÇ

@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“Ëˆçøÿÿÿÿ
+N
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(²€ 8æ¢Ë§Ñ0
+U
+java:S1854"8Remove this useless assignment to local variable "recu".(èÍ£Û8æ¢Ë§Ñ0
+F
+java:S1481")Remove this unused "recu" local variable.(èÍ£Û8æ¢Ë§Ñ0

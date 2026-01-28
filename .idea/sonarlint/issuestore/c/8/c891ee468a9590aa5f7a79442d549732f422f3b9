@@ -1,0 +1,19 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ã¿ú
+n	java:S116"TRename this field "client_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îì¯øÿÿÿÿÿ
+r	java:S116"XRename this field "client_secret" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨÷’¼üÿÿÿÿ
+o	java:S116"URename this field "grant_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êóûşÿÿÿÿ
+z
+java:S11490"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ª‹Áê
+O
+java:S4719("9Replace charset name argument with StandardCharsets.UTF_8(¨‚àÅ
+G
+java:S1481,"1Remove this unused "responseCode" local variable.(Û·Í
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ñšÔ
+H
+java:S1068"-Remove this unused "client_id" private field.(îì¯øÿÿÿÿÿ
+L
+java:S1068"1Remove this unused "client_secret" private field.(¨÷’¼üÿÿÿÿ
+I
+java:S1068".Remove this unused "grant_type" private field.(Êóûşÿÿÿÿ

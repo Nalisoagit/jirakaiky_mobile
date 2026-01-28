@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name" translatable="false">Jirakaiky</string>
+    <string name="error">Erreur</string>
+    <string name="scan_null">Aucune données scannées</string>
+    <string name="no_internet">Non connecté à internet</string>
+    <string name="bienvenuLabel">Bienvenue</string>
+    <string name="refFactureLabel">Réf facture:</string>
+    <string name="refClientLabel">Réf client:</string>
+    <string name="paiementLabel">Paiement</string>
+    <string name="montantFactureLabel">Montant facture:</string>
+    <string name="numeroLabel">Numéro téléphone:</string>
+    <string name="payerLabel">Payer</string>
+    <string name="transaction_title">Transaction en cours</string>
+    <string name="patientez_message">Patientez s\'il vous plaît</string>
+    <string name="transaction_reussi_message">Transaction réussi</string>
+    <string name="enregistrement_message">Enregistrement...</string>
+    <string name="enregistrement_title">Enregistrement</string>
+    <string name="impression_message">Impression facture...</string>
+    <string name="merci_message">Merci !</string>
+    <string name="error_firebase_message">Enregistrement échoué</string>
+    <string name="transaction_echouer_message">Transaction échoué</string>
+    <string name="error_champ_numero">Vérifiez numéro s\'il vous plaît:</string>
+    <string name="error_champ_numero_longueur">Vérifiez longueur numéro s\'il vous plaît</string>
+    <string name="error_champ_vide">Ce champ ne peut être vide !</string>
+    <string name="error_superieur_zero">Montant doit être >0</string>
+    <string name="exemple_label">Exemple</string>
+    <string name="ou_label">ou</string>
+    <string name="frais_note">Note: Un frais de 1000 ariary vous sera déduite en plus du montant initiale.</string>
+    <string name="facture_paye_not_in_database">Facture non régularisé par nous</string>
+    <string name="yes_label">Oui</string>
+    <string name="no_label">Non</string>
+    <!-- LOGIN string -->
+    <string name="bienvenueToast">Bienvenue</string>
+    <string name="error_Identifiant">Vérifiez identifiant</string>
+    <string name="error_Password">Vérifiez mots de passe</string>
+    <string name="invalidUser">Erreur dans l\'authentification</string>
+    <string name="se_connecter">Login</string>
+    <string name="telephone_label">Téléphone:</string>
+    <string name="password_label">Mots de passe:</string>
+    <!-- REGISTER string -->
+    <string name="requierd_numero">Téléphone requis</string>
+    <string name="requierd_mail">Email requis</string>
+    <string name="requierd_nom">Nom requis</string>
+    <string name="requierd_password">Mots de passe requis</string>
+    <string name="sinscire_label">S\'inscrire</string>
+    <string name="email_label">Email:</string>
+    <string name="nom_label">Nom:</string>
+    <string name="low_strength_password">Votre mots de passe est faible, doit contenir au moins un majuscule (A-Z), un nombre (0-9) et un caractère spéciaux (@#$*%^+=)</string>
+    <string name="error_taille_password">Le mots de passe doit faire au moins 8 caractères</string>
+    <string name="error_numero_taille_dix">Le numéro doit contenir 10 chiffres</string>
+    <string name="error_debut_numero">Le numéro doit commencé par 034, 033, 032 ou encore 038 </string>
+    <string name="pas_de_compte_label">Vous n\'avez pas encore de compte?</string>
+    <string name="deja_compte_label">Vous avez déja un compte?</string>
+    <string name="add_user_success">Création compte réussi, en attente de validation</string>
+    <string name="add_user_failed">Création compte échoué</string>
+    <string name="account_in_waiting">Compte pas encore validé</string>
+    <string name="phone_number_used">Numéro téléphone déjà utilisé</string>
+    <string name="compte_en_attente">Compte existant mais en attente</string>
+
+    <!-- TOUT CE QUI EST FRAIS: -->
+    <string name="frais_mvola" translatable="false">500</string>
+    <string name="frais_airtelmoney" translatable="false">200</string>
+    <string name="frais_orangemoney" translatable="false">300</string>
+    <string name="mga_label" translatable="false">MGA</string>
+    <string name="frais_label"><u>Frais</u>: </string>
+
+
+    <!-- SYNCHRONISATION  -->
+    <string name="mise_a_jour_title">Mise à jour</string>
+    <string name="mise_a_jour_en_cours">Mise à jour en cours</string>
+
+    <!-- SCAN REFERENCE FACTURE -->
+    <string name="title_alert_dialog_scan_ref">Résultat scan: </string>
+    <string name="facture_existe">Facture existe</string>
+    <string name="facture_nexiste">Facture n\'existe pas</string>
+    <string name="analyse_scan_title">Analyse:</string>
+    <string name="analyse_scan_message">Analyse pour: </string>
+    <string name="facture_non_payee"><center>Facture non payée</center></string>
+    <string name="facture_deja_payee">Facture déjà payée</string>
+    <string name="nom_client_label">Nom client: </string>
+    <string name="ref_facture_scan_label">Ref facture</string>
+    <string name="ref_client_scan_label">Ref client</string>
+    <string name="flash_label">Bouton volume + pour utiliser flash</string>
+
+    <!-- IMPRIMANTE BLUETOOTH -->
+    <string name="no_connected_imprimante">Aucune imprimante connectée.</string>
+    <string name="bt_not_supported">Cet appareil ne supporte pas le bluetooth.</string>
+    <string name="bt_ask_enabling">Veuillez activer le bluetooth s\'il vous plaît.</string>
+    <string name="loc_ask_enabling">Veuillez activer la localisation s\'il vous plaît.</string>
+
+    <!-- INTERNET -->
+    <string name="internet_ask_enabling">Veuillez vous connecter à internet s\'il vous plaît.</string>
+    <string name="de">De:</string>
+
+    <!-- NFC -->
+    <string name="nfc_autorise">Autorisé</string>
+
+    <!-- Detail paiement facture -->
+    <string name="title_detail">Détail paiement facture:</string>
+    <string name="annulation">Retour</string>
+    <string name="imprimer">Imprimer</string>
+
+    <!-- Deconnexion -->
+    <string name="deconnexion">Déconnexion</string>
+
+    <!-- Historique et synchro -->
+    <string name="historique">Historique</string>
+    <string name="synchronisation">Synchronisation</string>
+    <string name="enregistrement_base">Enregistrement dans la base...</string>
+    <string name="reglement_facture">Règlement facture...</string>
+    <string name="reglement_title">Règlement</string>
+    <string name="enregistrement_ok">Enregistrement données ✔</string>
+    <string name="reglement_ok">Règlement facture réussi ✔</string>
+    <string name="reglement_pas_ok">Règlement facture échoué ❌</string>
+    <string name="donnees_insuffisante">Données insuffisantes.</string>
+    <string name="null_callback">Aucune donnée de rappel correspondante</string>
+    <string name="retour_label">Retour</string>
+    <string name="transId_error">Ref transaction erroné</string>
+
+    <string name="synchro_label">Synchronisation</string>
+
+    <string name="commencement">Commencement</string>
+    <string name="details_done">Détails obtenu</string>
+    <!-- Credit -->
+    <string name="credit_insuffisant">Crédit insuffisant</string>
+
+    <!-- PAOSITRA -->
+    <string name="voir_telephone">Vérifier votre mobile pour voir le code de retrait</string>
+    <string name="validation_cashout_ok">Validation cashout ok</string>
+
+    <string name="close_cashout_validation_title">Fermeture cashout</string>
+    <string name="close_cashout_validation_message">Êtes-vous sûr de vouloir fermer la validation cashout ?</string>
+    <string name="fermer_label">Fermer</string>
+    <string name="validation_cashout_title">Validation cashout</string>
+    <string name="code_paoma_hint">Code Paoma</string>
+
+    <!-- RESULTAT SCAN -->
+    <string name="montant_donnee">Montant donné</string>
+    <string name="no_special_caractere">Vérifiez caractères</string>
+    <string name="verify_montant_donnee">Vérifiez montant données</string>
+    <string name="categorie_non_payable">Catégorie 80 non payable par Jirakaiky</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+
+r
+java:S1192X"PDefine a constant instead of duplicating this literal "objectReference" 3 times.(ê€ĞÜûÿÿÿÿ8…Ú—öæ0
+d
+java:S1192W"GDefine a constant instead of duplicating this literal "status" 4 times.(½¶ªÁ8†Ú—öæ0
+£
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ï­Âùûÿÿÿÿ8¹İ—öæ0
+N
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(ı•ğ8Áİ—öæ0
+o
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(´ß¢·8ƒŞ—öæ0
+f
+java:S2147<"DCombine this catch with the one at line 58, which has the same body.(÷¿­¹ÿÿÿÿÿ8¦Ş—öæ0
+f
+java:S2147H"DCombine this catch with the one at line 70, which has the same body.(÷¿­¹ÿÿÿÿÿ8¬Ş—öæ0
+a
+java:S2147T"DCombine this catch with the one at line 82, which has the same body.(ï­£Ä8°Ş—öæ0
+T
+java:S1874^"7Remove this use of "publishProgress"; it is deprecated.(ªÄÕì8¿Ş—öæ0
+b
+java:S2147f"ECombine this catch with the one at line 100, which has the same body.(ï­£Ä8›ß—öæ0
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(âŠƒ8ß—öæ0
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(í¦£ÿÿÿÿÿ8Ÿß—öæ0
+]	java:S125|"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8¡ß—öæ0
+h
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ8¡ß—öæ0
+F
+java:S1185"(Remove this method to simply inherit it.(ËĞƒ8£ß—öæ0
+Q
+java:S1874‚"4Remove this use of "onPreExecute"; it is deprecated.(”•P8¤ß—öæ0
+h
+java:S1874‡"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(İÕñ¿8¥ß—öæ0
+F
+java:S1185‡"(Remove this method to simply inherit it.(İÕñ¿8¦ß—öæ0
+R
+java:S1874‰"5Remove this use of "onPostExecute"; it is deprecated.(úñ†8¨ß—öæ0
+Y	java:S125Š"<This block of commented-out lines of code should be removed.(ôîˆ8©ß—öæ0
+m
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(şîºíúÿÿÿÿ8©ß—öæ0
+Y	java:S125"<This block of commented-out lines of code should be removed.(§Ú”ñ8«ß—öæ0

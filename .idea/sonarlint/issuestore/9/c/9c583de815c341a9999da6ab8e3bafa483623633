@@ -1,0 +1,15 @@
+
+N
+java:S1874"3Remove this use of "NetworkInfo"; it is deprecated.(¡Š†ÿÿÿÿÿ
+W
+java:S1874"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(¡Š†ÿÿÿÿÿ
+D
+java:S1874"/Remove this use of "getType"; it is deprecated.(üˆ¡:
+F
+java:S1874"1Remove this use of "TYPE_WIFI"; it is deprecated.(üˆ¡:
+E
+java:S1874"/Remove this use of "getType"; it is deprecated.(ãÇÒ±
+I
+java:S1874"3Remove this use of "TYPE_MOBILE"; it is deprecated.(ãÇÒ±
+x
+java:S2159#"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÜÜï£ÿÿÿÿÿ8ÛğèßŠ1

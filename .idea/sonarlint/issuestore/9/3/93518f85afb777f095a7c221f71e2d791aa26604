@@ -1,0 +1,10 @@
+
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äëô¦øÿÿÿÿ8¹×½£î0
+
+java:S11491"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ8ÑØ½£î0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­—™8ÒØ½£î0
+^
+java:S1854"<Remove this useless assignment to local variable "sha1hash".(Ë§ïúÿÿÿÿ8ÕØ½£î0
+X	java:S125"<This block of commented-out lines of code should be removed.(‰İÀÌ8ØØ½£î0
+[
+java:S4719#">Replace charset name argument with StandardCharsets.ISO_8859_1(˜êÖ8İØ½£î0

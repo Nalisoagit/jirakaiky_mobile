@@ -1,0 +1,69 @@
+
+h
+java:S1192ù"LDefine a constant instead of duplicating this literal "resteCredit" 4 times.(²ıÔùÿÿÿÿ
+i
+java:S1192s"NDefine a constant instead of duplicating this literal "Model error: " 3 times.(’Ğüµıÿÿÿÿ
+>
+java:S1604~"(Make this anonymous inner class a lambda(É¡×ÿ
+D
+java:S1604±"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604ö"(Make this anonymous inner class a lambda(ÎÄªÿÿÿÿÿ
+D
+java:S1604‹"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(Ì Ï•
+N
+java:S2589…"7Remove this expression which always evaluates to "true"(÷©ú¨
+u	java:S116%"[Rename this field "domain_name_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ìéşÿÿÿÿ
+p	java:S116&"[Rename this field "domain_name_prod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÅ·Ü
+k	java:S116'"VRename this field "domain_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É´Ğô
+}	java:S116("cRename this field "listePaiementFacture_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÅ«¬øÿÿÿÿ
+~	java:S116)"dRename this field "insertPaiementFacture_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘üÇ”ıÿÿÿÿ
+p	java:S116*"[Rename this field "url_reste_credit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªİá
+s	java:S116="YRename this field "CREDIT_MAJ_TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãğÅëûÿÿÿÿ
+7
+java:S1170'"!Make this final field static too.(É´Ğô
+<
+java:S1170="!Make this final field static too.(ãğÅëûÿÿÿÿ
+A
+java:S1948-"+Make "myContext" transient or serializable.(œª¯
+K
+java:S1948."0Make "myRequestQueue" transient or serializable.(ÖĞÚ­ÿÿÿÿÿ
+C
+java:S19481"(Make "myView" transient or serializable.(âÚªÌøÿÿÿÿ
+F
+java:S19482"+Make "myAtivity" transient or serializable.(’ùğİúÿÿÿÿ
+F
+java:S19483"0Make "progressDialog" transient or serializable.(ğİıº
+G
+java:S19486",Make "myRunnable" transient or serializable.(¹å¥şÿÿÿÿ
+A
+java:S19487"+Make "myHandler" transient or serializable.(×À¾¹
+R
+java:S19488"7Make "requestQueueForCredit" transient or serializable.(ô‘¤Éùÿÿÿÿ
+G
+java:S19489",Make "myActivity" transient or serializable.(éúØ²şÿÿÿÿ
+M
+java:S1948:"2Make "myLayoutInflater" transient or serializable.(«ÎÇ•ıÿÿÿÿ
+[
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(É´Ğô
+L
+java:S18743"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+m
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÒÈØ°ÿÿÿÿÿ
+`
+java:S2147v"ECombine this catch with the one at line 111, which has the same body.(¢­§Œÿÿÿÿÿ
+‘
+java:S2159…"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(÷©ú¨
+R
+java:S1874×"6Remove this use of "ProgressDialog"; it is deprecated.(Ñ»¯äıÿÿÿÿ
+I
+java:S1874Ù"2Remove this use of "setMessage"; it is deprecated.(İåí
+F
+java:S1874›"/Remove this use of "Handler"; it is deprecated.(†ñÙ³
+R	java:S125¨"<This block of commented-out lines of code should be removed.(™‡ÎÆ
+J
+java:S1068&"4Remove this unused "domain_name_prod" private field.(ˆÅ·Ü
+W
+java:S1068("<Remove this unused "listePaiementFacture_url" private field.(ŒÅ«¬øÿÿÿÿ

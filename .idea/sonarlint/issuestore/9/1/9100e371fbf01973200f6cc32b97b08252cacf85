@@ -1,0 +1,23 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÄËÍûÿÿÿÿ
+~
+java:S1488t"cImmediately return this expression instead of assigning it to the temporary variable "messageCode".(îÄ™Âúÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú¯¥®üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¬ú¯Òÿÿÿÿÿ
+X
+java:S1854)"=Remove this useless assignment to local variable "mediaType".(Ãÿ™ëùÿÿÿÿ
+‰
+java:S1130"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(ÄËÍûÿÿÿÿ
+I
+java:S1481)".Remove this unused "mediaType" local variable.(Ãÿ™ëùÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(Ş‹æØıÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(è§à€
+V	java:S1255"<This block of commented-out lines of code should be removed.(éåØ³øÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(¬”û
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(Ëíœ§üÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'okhttp3.RequestBody'.(ıÂÂöûÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'okhttp3.Response'.(Ï‚ñ—øÿÿÿÿ

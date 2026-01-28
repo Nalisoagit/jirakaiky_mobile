@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "project_number": "484422190201",
+    "firebase_url": "https://biosy-1a05a-default-rtdb.firebaseio.com",
+    "project_id": "biosy-1a05a",
+    "storage_bucket": "biosy-1a05a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484422190201:android:6964522eebe71a4a7ac0a8",
+        "android_client_info": {
+          "package_name": "com.equima.btaxe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_kEf-XyakWA4rIFhchTwrWqDrHhqNiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484422190201:android:f8f07a47786d20d97ac0a8",
+        "android_client_info": {
+          "package_name": "com.equima.bustaxe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_kEf-XyakWA4rIFhchTwrWqDrHhqNiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484422190201:android:03983ad6bba667dd7ac0a8",
+        "android_client_info": {
+          "package_name": "com.example.buxiproprio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484422190201-iq089rv588qru5si91l8gknilvvq26fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buxiproprio",
+            "certificate_hash": "24c413e874ec56a0a94c3d831cbacd05b0a55996"
+          }
+        },
+        {
+          "client_id": "484422190201-tu659f68nf0v7ja8udmiagd654b214b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buxiproprio",
+            "certificate_hash": "06a26edeb719327ff641193a7bb81ab2a86cafa4"
+          }
+        },
+        {
+          "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_kEf-XyakWA4rIFhchTwrWqDrHhqNiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484422190201:android:aebba38b88df1f807ac0a8",
+        "android_client_info": {
+          "package_name": "com.example.usermanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_kEf-XyakWA4rIFhchTwrWqDrHhqNiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484422190201:android:c6c3f0bf2e2181f57ac0a8",
+        "android_client_info": {
+          "package_name": "mg.eqima.jiramacashless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_kEf-XyakWA4rIFhchTwrWqDrHhqNiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484422190201-4boab6qc18elstmb34i6382863ihodsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

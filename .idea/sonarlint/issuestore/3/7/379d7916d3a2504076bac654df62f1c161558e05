@@ -1,0 +1,18 @@
+
+t
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+>
+java:S1604%"(Make this anonymous inner class a lambda(œÚô¡
+C
+java:S16042"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+}
+java:S1488O"bImmediately return this expression instead of assigning it to the temporary variable "valinyVrai".(í¡†’şÿÿÿÿ
+l	java:S116"WRename this field "consumer_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥òø
+v	java:S116"ZRename this field "consumer_secret" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È÷õï8äÊõõæ0
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ä«”Ï
+f
+java:S1858("K"response" is already a string, there's no need to call "toString()" on it.(ƒœ‘çıÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(¢¿îô
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(¨Ñâûÿÿÿÿ
+I
+java:S1068"3Remove this unused "urlDeProduction" private field.(Ğùæ¶

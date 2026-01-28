@@ -1,0 +1,166 @@
+
+b
+java:S1192¾"KDefine a constant instead of duplicating this literal "nom_client" 3 times.(­¢¯Ä
+d
+java:S1192†"FDefine a constant instead of duplicating this literal "Paoma" 4 times.(è™¡ˆ8ĞŠ…ˆ™1
+j
+java:S1192û"GDefine a constant instead of duplicating this literal "Airtel" 3 times.(Á¯şÅıÿÿÿÿ8ÔŠ…ˆ™1
+h
+java:S1192À"JDefine a constant instead of duplicating this literal "refClient" 3 times.(²ëÄæ8ÑŠ…ˆ™1
+c
+java:S1192Â"FDefine a constant instead of duplicating this literal "annee" 3 times.(ßĞü	8ÒŠ…ˆ™1
+i
+java:S1192Í"FDefine a constant instead of duplicating this literal "Mvola" 3 times.(±ÄÿŒùÿÿÿÿ8ÓŠ…ˆ™1
+f
+java:S1192ö"IDefine a constant instead of duplicating this literal "recucode" 3 times.(Î¶â]8ÕŠ…ˆ™1
+k
+java:S1192¿"ODefine a constant instead of duplicating this literal "adresse_client" 3 times.(º¤Éãşÿÿÿÿ
+g	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÏ²
+g	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¢¯Ä
+l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¤Éãşÿÿÿÿ
+g	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ëÄæ
+l	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¬ëÚıÿÿÿÿ
+m	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßĞü	8İŠ…ˆ™1
+F
+java:S1604"(Make this anonymous inner class a lambda( °Ë™8ßŠ…ˆ™1
+F
+java:S1604¥"(Make this anonymous inner class a lambda( °Ë™8àŠ…ˆ™1
+F
+java:S1604¬"(Make this anonymous inner class a lambda( °Ë™8áŠ…ˆ™1
+F
+java:S1604‡"(Make this anonymous inner class a lambda( °Ë™8âŠ…ˆ™1
+F
+java:S1604•"(Make this anonymous inner class a lambda( °Ë™8ãŠ…ˆ™1
+F
+java:S1604£"(Make this anonymous inner class a lambda( °Ë™8äŠ…ˆ™1
+F
+java:S1604¼"(Make this anonymous inner class a lambda( °Ë™8åŠ…ˆ™1
+F
+java:S1604‰"(Make this anonymous inner class a lambda(ÉãÃ®8çŠ…ˆ™1
+K
+java:S1604ç"(Make this anonymous inner class a lambda(Û±Â…øÿÿÿÿ8èŠ…ˆ™1
+K
+java:S1604‰"(Make this anonymous inner class a lambda(ìû§•úÿÿÿÿ8éŠ…ˆ™1
+K
+java:S1604 "(Make this anonymous inner class a lambda(ìû§•úÿÿÿÿ8ëŠ…ˆ™1
+K
+java:S1604·"(Make this anonymous inner class a lambda(ìû§•úÿÿÿÿ8ìŠ…ˆ™1
+K
+java:S1604É"(Make this anonymous inner class a lambda(ìû§•úÿÿÿÿ8íŠ…ˆ™1
+K
+java:S1604Ö"(Make this anonymous inner class a lambda(–ãüŞşÿÿÿÿ8îŠ…ˆ™1
+K
+java:S1604Û"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8ïŠ…ˆ™1
+K
+java:S1604ğ"(Make this anonymous inner class a lambda(–ãüŞşÿÿÿÿ8ğŠ…ˆ™1
+K
+java:S1604õ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8ñŠ…ˆ™1
+f
+java:S2583â"CChange this condition so that it does not always evaluate to "true"(Æá€õÿÿÿÿÿ8’…ˆ™1
+u	java:S116F"[Rename this field "domain_name_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ìéşÿÿÿÿ
+p	java:S116G"[Rename this field "domain_name_prod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÅ·Ü
+k	java:S116H"VRename this field "domain_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É´Ğô
+q	java:S116I"WRename this field "url_set_recu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¨€ìùÿÿÿÿ
+x	java:S116J"\Rename this field "url_success_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„áê«8“’…ˆ™1
+>
+java:S1170H"!Make this final field static too.(É´Ğô8£’…ˆ™1
+I
+java:S1659}"'Declare "longitude" on a separate line.(öîƒÆÿÿÿÿÿ8«’…ˆ™1
+{
+java:S1450|"YRemove the "gpsTracker" field and declare it as a local variable in the relevant methods.(ñç—úùÿÿÿÿ8®’…ˆ™1
+b
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(É´Ğô8¼’…ˆ™1
+S
+java:S1874]"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº8¾’…ˆ™1
+v
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 111 to the 15 allowed.(¨Œşÿÿÿÿ8Ì’…ˆ™1
+E
+java:S1481”"/Remove this unused "refFacture" local variable.(Ş³¤
+Q
+java:S1481•"3Remove this unused "montantFacture" local variable.(åöœÈ8Ò’…ˆ™1
+^	java:S125»"<This block of commented-out lines of code should be removed.(ªõ¡¢şÿÿÿÿ8Ù’…ˆ™1
+Y	java:S125ä"<This block of commented-out lines of code should be removed.(ä„Â‰8ë’…ˆ™1
+Y	java:S125ê"<This block of commented-out lines of code should be removed.(îÃ„×8‚“…ˆ™1
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(¹¢‚ºøÿÿÿÿ8„“…ˆ™1
+E
+java:S1125÷"'Remove the unnecessary boolean literal.(áÕÉù8†“…ˆ™1
+\
+java:S2130ş">Use "Double.parseDouble" for this string-to-double conversion.(±ş§ç8‰“…ˆ™1
+Y	java:S125€"<This block of commented-out lines of code should be removed.(¦¹Ÿâ8‹“…ˆ™1
+T
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(«­¹É8™“…ˆ™1
+P
+java:S1874’"2Remove this use of "setMessage"; it is deprecated.(ú¿ƒÇ8›“…ˆ™1
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(…Ø…¡ùÿÿÿÿ8“…ˆ™1
+^	java:S125¡"<This block of commented-out lines of code should be removed.(Şºìáøÿÿÿÿ8Ÿ“…ˆ™1
+T
+java:S1874°"6Remove this use of "ProgressDialog"; it is deprecated.(«­¹É8¦“…ˆ™1
+P
+java:S1874²"2Remove this use of "setMessage"; it is deprecated.(òí»ğ8¨“…ˆ™1
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.( ÂşÛùÿÿÿÿ8¹“…ˆ™1
+
+java:S2159â"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Æá€õÿÿÿÿÿ8¾“…ˆ™1
+^	java:S125ù"<This block of commented-out lines of code should be removed.(Ë¼¬óşÿÿÿÿ8Ä“…ˆ™1
+X	java:S125‚"<This block of commented-out lines of code should be removed.(ÔäÀ28È“…ˆ™1
+Y	java:S125Ï"<This block of commented-out lines of code should be removed.(º§£è8à“…ˆ™1
+P
+java:S2130Õ"9Use "Integer.parseInt" for this string-to-int conversion.(øéƒ
+P
+java:S2130Ö"9Use "Integer.parseInt" for this string-to-int conversion.(×¿»æ
+\
+java:S2130×"9Use "Integer.parseInt" for this string-to-int conversion.(ŞÈ°şÿÿÿÿ8å“…ˆ™1
+a
+java:S2130â">Use "Double.parseDouble" for this string-to-double conversion.(Ôï¥©ÿÿÿÿÿ8ê“…ˆ™1
+l
+java:S1117ç"IRename "cashlessWebApiVolley" which hides the field declared at line 101.(”Ÿ÷‚ûÿÿÿÿ8ì“…ˆ™1
+l
+java:S1117õ"IRename "cashlessWebApiVolley" which hides the field declared at line 101.(”Ÿ÷‚ûÿÿÿÿ8ï“…ˆ™1
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(º§£è8ó“…ˆ™1
+P
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(øéƒ
+P
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(×¿»æ
+\
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ŞÈ°şÿÿÿÿ8÷“…ˆ™1
+a
+java:S2130›">Use "Double.parseDouble" for this string-to-double conversion.(Ôï¥©ÿÿÿÿÿ8û“…ˆ™1
+^	java:S125œ"<This block of commented-out lines of code should be removed.(©¾±²ùÿÿÿÿ8ü“…ˆ™1
+l
+java:S1117¢"IRename "cashlessWebApiVolley" which hides the field declared at line 101.(”Ÿ÷‚ûÿÿÿÿ8ÿ“…ˆ™1
+l
+java:S1117±"IRename "cashlessWebApiVolley" which hides the field declared at line 101.(”Ÿ÷‚ûÿÿÿÿ8‚”…ˆ™1
+Y	java:S125ì"<This block of commented-out lines of code should be removed.(Î™¶À8”…ˆ™1
+L
+java:S1874î"0Remove this use of "getColor"; it is deprecated.(‹çD8’”…ˆ™1
+Y	java:S125ñ"<This block of commented-out lines of code should be removed.(àœ­î8””…ˆ™1
+N
+java:S1874ó"0Remove this use of "getColor"; it is deprecated.(™äÊ¾8–”…ˆ™1
+Y	java:S125ö"<This block of commented-out lines of code should be removed.(î¯ó®8™”…ˆ™1
+S
+java:S1874ø"0Remove this use of "getColor"; it is deprecated.(„ìØøÿÿÿÿ8›”…ˆ™1
+u
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ùö½‡ùÿÿÿÿ8 ”…ˆ™1
+H
+java:S1172Å"+Remove this unused method parameter "view".(ĞıË8¯”…ˆ™1
+N
+java:S1172Ñ"+Remove this unused method parameter "view".(Ñ²áûÿÿÿÿ8´”…ˆ™1
+]
+java:S1117Ô"?Rename "utilitaire" which hides the field declared at line 135.(›•¸ó8µ”…ˆ™1
+[
+java:S1874å"=Remove this use of "getDrawableForDensity"; it is deprecated.(Í´ñÙ8¼”…ˆ™1
+W
+java:S1874—"9Remove this use of "getDefaultAdapter"; it is deprecated.(Ï§»Ş8Î”…ˆ™1
+b
+java:S1117¯"?Rename "gpsTracker" which hides the field declared at line 124.(ì¾Ğ›ûÿÿÿÿ8×”…ˆ™1
+c
+java:S2147“"ECombine this catch with the one at line 913, which has the same body.(ä ¹€8ğ”…ˆ™1
+|
+java:S2142“"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ñ”…ˆ™1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(÷¸¤Êùÿÿÿÿ8ò”…ˆ™1
+^	java:S125"<This block of commented-out lines of code should be removed.(óôÇˆùÿÿÿÿ8õ”…ˆ™1
+Q
+java:S1068G"4Remove this unused "domain_name_prod" private field.(ˆÅ·Ü8ÂÓÃ‰™1
+<
+java:S1068t"&Remove this unused "df" private field.(ì‘éˆ
+H
+java:S1068u"&Remove this unused "nf" private field.(Ä›ùßıÿÿÿÿ8ø”…ˆ™1

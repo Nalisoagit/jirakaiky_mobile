@@ -1,0 +1,190 @@
+
+K
+java:S3740½"/Provide the parametrized type for this generic.(ãßæùşÿÿÿÿ
+p
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‚ÉÈ
+p
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‚ÉÈ
+_
+java:S1192¥"HDefine a constant instead of duplicating this literal "Error: " 3 times.(Û¬Ğ
+h
+java:S1192›"LDefine a constant instead of duplicating this literal "resteCredit" 3 times.(²ıÔùÿÿÿÿ
+i
+java:S1192¨"MDefine a constant instead of duplicating this literal "Error code: " 5 times.(‚¨ùÿÿÿÿ
+s
+java:S1192İ"WDefine a constant instead of duplicating this literal "ValidationCashoutError" 3 times.(‡Äò¸ùÿÿÿÿ
+b
+java:S1192Ô"KDefine a constant instead of duplicating this literal "TokenError" 3 times.(¤…–Œ
+]
+java:S1192·"FDefine a constant instead of duplicating this literal "STATE" 4 times.(Â¹Ÿ
+\
+java:S1192ˆ"EDefine a constant instead of duplicating this literal "\",
+" 8 times.(Àƒ¡Í
+b
+java:S1192—"KDefine a constant instead of duplicating this literal "Json error" 6 times.(–æœ¢
+j
+java:S1192“"NDefine a constant instead of duplicating this literal "Json error: " 10 times.(†€˜ÿøÿÿÿÿ
+^
+java:S1192™"GDefine a constant instead of duplicating this literal "VOLLEY" 8 times.(­‰¤Ì
+i
+java:S1192Ÿ"MDefine a constant instead of duplicating this literal "errorMessage" 4 times.(íùç¥üÿÿÿÿ
+`
+java:S1192À"IDefine a constant instead of duplicating this literal "ERREUR: " 4 times.(Ğ÷—æ
+c
+java:S1192¾"GDefine a constant instead of duplicating this literal "errors" 3 times.(ÒÕ¯Èÿÿÿÿÿ
+]
+java:S1192£"FDefine a constant instead of duplicating this literal "error" 3 times.(½Ç©ı
+e
+java:S1192»"IDefine a constant instead of duplicating this literal "CANCELED" 3 times.(Úùîüÿÿÿÿ
+q
+java:S1192¿"UDefine a constant instead of duplicating this literal "InitiateCashoutError" 3 times.(‡Õüúÿÿÿÿ
+l
+java:S1192ä"IDefine a constant instead of duplicating this literal "response" 3 times.(õ°õÔüÿÿÿÿ8Œàú×š1
+`
+java:S1192ò"IDefine a constant instead of duplicating this literal "recucode" 4 times.(şŸëÍ
+K
+java:S1066Ó"/Merge this if statement with the enclosing one.(ÄÜ—İøÿÿÿÿ
+g	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( äî’
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹øÑûüÿÿÿÿ
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÒÓ
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÏÒä
+l	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çèôÆıÿÿÿÿ
+g	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áì”ï
+g	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùöæë
+l	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡³æ°şÿÿÿÿ
+D
+java:S1604›"(Make this anonymous inner class a lambda(«ßşœşÿÿÿÿ
+D
+java:S1604Î"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604…"(Make this anonymous inner class a lambda(‹‚œ„üÿÿÿÿ
+D
+java:S1604¹"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604ş"(Make this anonymous inner class a lambda(“„š 
+D
+java:S1604×"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(Ò…ªœşÿÿÿÿ
+D
+java:S1604¦"(Make this anonymous inner class a lambda(“‰Šßûÿÿÿÿ
+D
+java:S1604À"(Make this anonymous inner class a lambda(ˆÚ°šùÿÿÿÿ
+?
+java:S1604È"(Make this anonymous inner class a lambda(üôØ­
+?
+java:S1604ì"(Make this anonymous inner class a lambda(ü×ú
+D
+java:S1604"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604ü"(Make this anonymous inner class a lambda(‡£Ğõøÿÿÿÿ
+D
+java:S1604ˆ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604³"(Make this anonymous inner class a lambda(‡£Ğõøÿÿÿÿ
+D
+java:S1604¿"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(–ãüŞşÿÿÿÿ
+D
+java:S1604’"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604´"(Make this anonymous inner class a lambda(–ãüŞşÿÿÿÿ
+D
+java:S1604¹"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604Ú"(Make this anonymous inner class a lambda(–ãüŞşÿÿÿÿ
+D
+java:S1604ß"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604˜"(Make this anonymous inner class a lambda(ÎÄªÿÿÿÿÿ
+K
+java:S1604Ã"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8šàú×š1
+K
+java:S1604Ô"(Make this anonymous inner class a lambda(–ãüŞşÿÿÿÿ8›àú×š1
+K
+java:S1604û"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8œàú×š1
+H
+java:S1153"1Directly append the argument of String.valueOf().(¾Ùè¿
+H
+java:S1153Ä"1Directly append the argument of String.valueOf().(”Ï®
+H
+java:S1153ê"1Directly append the argument of String.valueOf().(”Ï®
+O
+java:S1153…	"1Directly append the argument of String.valueOf().(¥ÎÒ§8ªàú×š1
+y
+java:S2259ä"VA "NullPointerException" could be thrown; "reponseSetRefTransaction" is nullable here.(õ°õÔüÿÿÿÿ8Äâú×š1
+u	java:S116="[Rename this field "domain_name_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ìéşÿÿÿÿ
+p	java:S116>"[Rename this field "domain_name_prod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÅ·Ü
+k	java:S116@"VRename this field "domain_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¼™€
+y	java:S116B"_Rename this field "url_deduction_credit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÊÁÿÿÿÿÿ
+~	java:S116C"dRename this field "url_deduction_credit_half" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø˜Áøÿÿÿÿ
+w	java:S116D"bRename this field "urt_set_ref_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…£¡½
+z	java:S116F"`Rename this field "url_reglement_facture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äâ½Åúÿÿÿÿ
+q	java:S116G"WRename this field "url_set_recu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¨€ìùÿÿÿÿ
+q	java:S116H"\Rename this field "url_success_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„áê«
+n	java:S116I"TRename this field "url_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ùËÿÿÿÿÿ
+p	java:S116J"[Rename this field "url_reste_credit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªİá
+v	java:S116M"\Rename this field "url_paositra_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë„ãùÿÿÿÿ
+q	java:S116N"\Rename this field "url_paositra_prod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»½Œî
+q	java:S116R"WRename this field "url_paositra" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É“ÊŸøÿÿÿÿ
+i	java:S116T"TRename this field "url_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öäû
+t	java:S116U"_Rename this field "url_initiate_cashout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¡æÒ
+{	java:S116V"aRename this field "url_validation_cashout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊúŸşÿÿÿÿ
+j	java:S116W"URename this field "url_logout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔûĞø
+Q
+java:S1874f"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ªçÙ»úÿÿÿÿ
+8
+java:S1116í"Remove this empty statement.(ôŸìúÿÿÿÿ
+i
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ĞÛÿÙ
+P
+java:S1854"9Remove this useless assignment to local variable "error".(½Ç©ı
+A
+java:S1481"*Remove this unused "error" local variable.(½Ç©ı
+8
+java:S1116ß"Remove this empty statement.(ôŸìúÿÿÿÿ
+n
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(‘¹ıÓıÿÿÿÿ
+P
+java:S1854†"9Remove this useless assignment to local variable "error".(½Ç©ı
+A
+java:S1481†"*Remove this unused "error" local variable.(½Ç©ı
+8
+java:S1116ı"Remove this empty statement.(ôŸìúÿÿÿÿ
+R
+java:S1874‚"6Remove this use of "ProgressDialog"; it is deprecated.(Ñ»¯äıÿÿÿÿ
+I
+java:S1874„"2Remove this use of "setMessage"; it is deprecated.(İåí
+I
+java:S1172¹"2Remove this unused method parameter "alertDialog".(µ¹Ú 
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(ş³«ûÿÿÿÿ
+O	java:S106Ç"9Replace this use of System.out or System.err by a logger.(³Ò’ø
+T	java:S106É"9Replace this use of System.out or System.err by a logger.(†»šôıÿÿÿÿ
+O	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ïßø•
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(Ü¿–µüÿÿÿÿ
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ĞŒÀÛ
+U
+java:S1874ü"9Remove this use of "JsonObjectRequest"; it is deprecated.(‡£Ğõøÿÿÿÿ
+U
+java:S1874³"9Remove this use of "JsonObjectRequest"; it is deprecated.(‡£Ğõøÿÿÿÿ
+G
+java:S1172Ü"+Remove this unused method parameter "view".(ËÂµÒıÿÿÿÿ
+Y
+java:S1874ğ"=Remove this use of "getDrawableForDensity"; it is deprecated.(Ãùï¤ùÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(³ÓÈëùÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(³ÓÈëùÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(³ÓÈëùÿÿÿÿ
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÙÚğ¿ûÿÿÿÿ
+p
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(´§ó8İãú×š1
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(¶Ñü8äãú×š1
+J
+java:S1068>"4Remove this unused "domain_name_prod" private field.(ˆÅ·Ü
+K
+java:S1068N"5Remove this unused "url_paositra_prod" private field.(»½Œî
+D
+java:S1068W".Remove this unused "url_logout" private field.(ÔûĞø

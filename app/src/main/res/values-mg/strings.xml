@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">JiramaCashless</string>
+    <string name="error">Nisy olana</string>
+    <string name="scan_null">Tsy misy daonea</string>
+    <string name="no_internet">Tsy misy aterineto</string>
+    <string name="bienvenuLabel">Tonga soa</string>
+    <string name="refFactureLabel">Ref faktiora:</string>
+    <string name="refClientLabel">Ref mpanjifa:</string>
+    <string name="paiementLabel">Fandoavam-bola</string>
+    <string name="montantFactureLabel">Vola aloha:</string>
+    <string name="numeroLabel">Laharana finday:</string>
+    <string name="payerLabel">Handoa</string>
+    <string name="transaction_title">Fandoavam-bola</string>
+    <string name="patientez_message">Azafady, mba jereo ny findainao...</string>
+    <string name="transaction_reussi_message">Tafita ny fandoavam-bola</string>
+    <string name="enregistrement_message">Fanoratana ao anaty banky angona...</string>
+    <string name="enregistrement_title">Fanoratana</string>
+    <string name="impression_message">Fanontana faktiora...</string>
+    <string name="merci_message">Misaotra tompoko</string>
+    <string name="error_firebase_message">Tsy tontosa ny fanoratana ao anaty banky angona</string>
+    <string name="transaction_echouer_message">Tsy tontosa ny fandoavam-bola</string>
+    <string name="error_champ_numero">Azafady, amarino ny laharana findainao:</string>
+    <string name="error_champ_numero_longueur">Azafady, amarino ny alavan\'ny laharana findainao</string>
+    <string name="error_champ_vide">Tsy maintsy fenoina azafady</string>
+    <string name="error_superieur_zero">Tsy tokony ho latsaky ny 0 tompoko</string>
+    <string name="exemple_label">Ohatra</string>
+    <string name="se_connecter">Hiditra</string>
+    <string name="ou_label">na</string>
+    <string name="frais_note">Fanamarihana: Hiisy sarany 1000 ariary ny fandoavana ny faktiora</string>
+    <string name="facture_paye_not_in_database">Tsy tato aminay no naloha</string>
+    <string name="yes_label">Eny</string>
+    <string name="no_label">Tsia</string>
+    <!-- RESAKA LOGIN  -->
+    <string name="bienvenueToast">Tonga soa</string>
+    <string name="error_Identifiant">Amarino ny mailaka</string>
+    <string name="error_Password">Amarino ny tenimiafina</string>
+    <string name="invalidUser">Amarino ny mombamomba anao</string>
+    <string name="telephone_label">Laharana finday:</string>
+    <string name="password_label">Tenimiafina:</string>
+    <!-- REGISTER string -->
+    <string name="requierd_numero">Laharana finday ilaina</string>
+    <string name="requierd_mail">Mailaka ilaina</string>
+    <string name="requierd_nom">Anarana ilaina</string>
+    <string name="requierd_password">Tenimiafina ilaina</string>
+    <string name="sinscire_label">Hisoratra</string>
+    <string name="email_label">Mailaka:</string>
+    <string name="nom_label">Anarana:</string>
+    <string name="low_strength_password">Marefo ny tenimiafinao, tsy maintsy misy litera lehibe iray farafahakeliny (A-Z), isa iray farafahakeliny (0-9) ary tarehintsoratra manokana iray farafahakeliny (@#$*%^+=)</string>
+    <string name="error_taille_password">Tokony ho litera 8 farafahakeliny ny mandrafitra ny tenimiafinao</string>
+    <string name="error_numero_taille_dix">Numéro doit contenir 10 chiffre</string>
+    <string name="error_debut_numero">Ny laharana finday dia tsy maintsy manomboka amin\'ny 034, 038, 032 na 033</string>
+    <string name="pas_de_compte_label">Mbola tsy manana kaonty ve ianao?</string>
+    <string name="deja_compte_label">Efa manana kaonty ve ianao?</string>
+    <string name="add_user_success">Nahomby ny famoronana kaonty, miandry ny fankatoavana</string>
+    <string name="add_user_failed">Tsy nahomby ny famoronana kaonty</string>
+    <string name="account_in_waiting">Kaonty mbola tsy voamarina</string>
+    <string name="phone_number_used">Efa miasa io laharana finday io</string>
+    <string name="compte_en_attente">Kaonty misy fa mbola miandry</string>
+    <string name="frais_label">Sarany: </string>
+
+    <!-- SYNCHRONISATION  -->
+    <string name="mise_a_jour_title">Mise à jour</string>
+    <string name="mise_a_jour_en_cours">Mise à jour en cours...</string>
+
+    <!-- SCAN REFERENCE FACTURE -->
+    <string name="title_alert_dialog_scan_ref">Valin\'ny scan</string>
+    <string name="facture_existe">Misy io faktiora io</string>
+    <string name="facture_nexiste">Tsy misy io faktiora io</string>
+    <string name="analyse_scan_title">Fanamarinana</string>
+    <string name="analyse_scan_message">Fanamarinana hoan\'ny: </string>
+    <string name="facture_non_payee">Tsy mbola voaloha io faktiora io</string>
+    <string name="facture_deja_payee">Efa voaloha io faktiora io</string>
+    <string name="nom_client_label">Anaran\'ny mpanjiva: </string>
+    <string name="ref_facture_scan_label">Ref faktiora</string>
+    <string name="ref_client_scan_label">Ref mpanjifa</string>
+    <string name="flash_label">Fampiakarana feo + raha hampiasa tselatra</string>
+
+    <!-- IMPRIMANTE BLUETOOTH -->
+    <string name="no_connected_imprimante">Tsy misy fanaovana pirinty mifandray.</string>
+    <string name="bt_not_supported">Tsy mahazàka bluetooth ity finday ity.</string>
+    <string name="bt_ask_enabling">Velomy ny bluetooth azafady indrindra.</string>
+    <string name="loc_ask_enabling">Velomy ny localisation azafady indrindra.</string>
+    <string name="internet_ask_enabling">Velomy ny aterneto azafady</string>
+
+    <string name="de">Hoan\'ny:</string>
+
+    <!-- NFC -->
+    <string name="nfc_autorise">Afaka</string>
+
+    <!-- Detail paiement facture -->
+    <string name="title_detail">Mombamomba fandoavana faktiora:</string>
+    <string name="annulation">Hiverina</string>
+    <string name="imprimer">Hanonta</string>
+
+    <!-- Deconnexion -->
+    <string name="deconnexion">Hivoka</string>
+
+    <!-- Historique et synchro -->
+    <string name="historique">Tahiry</string>
+    <string name="synchronisation">Fampifanandrifiana</string>
+    <string name="enregistrement_base">Fanoratana ao anaty banky angona...</string>
+    <string name="reglement_facture">Fandoavana faktiora...</string>
+    <string name="reglement_title">Fandoavana</string>
+    <string name="enregistrement_ok">Nety ny fanoratana ✔</string>
+    <string name="reglement_ok">Nety ny fandoavana ✔</string>
+
+    <string name="reglement_pas_ok">Tsy nety ny fandoavana ❌</string>
+    <string name="null_callback">Tsy misy angona fiantsoana mifanandrify</string>
+
+    <string name="details_done">Azo ny mombamomba</string>
+    <string name="synchro_label">Fampifanitsiana</string>
+    <string name="retour_label">Hiverina</string>
+    <string name="transId_error">Tsy ny laharan\'ny fahadoavambola</string>
+
+    <!-- Saisie -->
+    <string name="donnees_insuffisante">Tsy ampy ny daonea.</string>
+    <string name="commencement">Manomboka</string>
+
+    <!-- Credit -->
+    <string name="credit_insuffisant">Tsy ampy ny kredi</string>
+
+    <!-- PAOSITRA -->
+    <string name="voir_telephone">Jereo ny kaody any amin\'ny findainao</string>
+    <string name="validation_cashout_ok">Nety ny cashout</string>
+
+    <string name="close_cashout_validation_title">Fanidiana ny cashout</string>
+    <string name="close_cashout_validation_message">Tena tianao hakatona marina ve ny fankatoavana ny cashout ?</string>
+    <string name="fermer_label">Hanidy</string>
+    <string name="validation_cashout_title">Fankatoavana ny cashout</string>
+    <string name="code_paoma_hint">Kaody Paoma</string>
+
+    <!-- RESULTAT SCAN -->
+    <string name="montant_donnee">Vola nomeny</string>
+    <string name="no_special_caractere">Amarino ny nosoratanao</string>
+    <string name="verify_montant_donnee">Amarino ny vola nomeny</string>
+    <string name="categorie_non_payable">Tsy afaka aloha @ Jirakaiky ny sokajy 80</string>
+
+</resources>
